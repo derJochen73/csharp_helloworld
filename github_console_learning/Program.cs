@@ -10,7 +10,7 @@ namespace github_console_learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Masterbranch");
+            Console.WriteLine("Hello feature branch");
             Console.ReadKey();
         }
     }
